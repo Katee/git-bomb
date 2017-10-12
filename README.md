@@ -1,8 +1,8 @@
-# git-bomb
+# Git bomb
 
 A (nearly) uncloneable repo. Make your own git bombs:
 
-```python3
+```python
 #! /usr/bin/env python3
 import binascii
 import subprocess
